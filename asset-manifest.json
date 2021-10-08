@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Dark-mode-and-Counting/static/css/main.da2ac1eb.chunk.css",
+    "main.js": "/Dark-mode-and-Counting/static/js/main.d7a69183.chunk.js",
+    "main.js.map": "/Dark-mode-and-Counting/static/js/main.d7a69183.chunk.js.map",
+    "runtime-main.js": "/Dark-mode-and-Counting/static/js/runtime-main.bd168122.js",
+    "runtime-main.js.map": "/Dark-mode-and-Counting/static/js/runtime-main.bd168122.js.map",
+    "static/css/2.818011ed.chunk.css": "/Dark-mode-and-Counting/static/css/2.818011ed.chunk.css",
+    "static/js/2.b6cc09e1.chunk.js": "/Dark-mode-and-Counting/static/js/2.b6cc09e1.chunk.js",
+    "static/js/2.b6cc09e1.chunk.js.map": "/Dark-mode-and-Counting/static/js/2.b6cc09e1.chunk.js.map",
+    "static/js/3.983c1053.chunk.js": "/Dark-mode-and-Counting/static/js/3.983c1053.chunk.js",
+    "static/js/3.983c1053.chunk.js.map": "/Dark-mode-and-Counting/static/js/3.983c1053.chunk.js.map",
+    "index.html": "/Dark-mode-and-Counting/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Dark-mode-and-Counting/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.da2ac1eb.chunk.css.map": "/Dark-mode-and-Counting/static/css/main.da2ac1eb.chunk.css.map",
+    "static/js/2.b6cc09e1.chunk.js.LICENSE.txt": "/Dark-mode-and-Counting/static/js/2.b6cc09e1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Dark-mode-and-Counting/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd168122.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.b6cc09e1.chunk.js",
+    "static/css/main.da2ac1eb.chunk.css",
+    "static/js/main.d7a69183.chunk.js"
+  ]
+}
